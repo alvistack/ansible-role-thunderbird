@@ -1,6 +1,6 @@
 # Ansible Role for Thunderbird
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-thunderbird.svg)](https://travis-ci.com/alvistack/ansible-role-thunderbird)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-thunderbird/master)](https://gitlab.com/alvistack/ansible-role-thunderbird/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.thunderbird-blue.svg)](https://galaxy.ansible.com/alvistack/thunderbird)
