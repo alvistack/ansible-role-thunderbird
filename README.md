@@ -1,6 +1,6 @@
 # Ansible Role for Thunderbird
 
-[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-thunderbird.svg)](https://travis-ci.com/alvistack/ansible-role-thunderbird)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-thunderbird/master)](https://gitlab.com/alvistack/ansible-role-thunderbird/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.thunderbird-blue.svg)](https://galaxy.ansible.com/alvistack/thunderbird)
@@ -13,11 +13,11 @@ This role require Ansible 2.10 or higher.
 
 This role was designed for:
 
-  - Ubuntu 18.04/20.04
+  - Ubuntu 18.04/20.04/20.10
   - RHEL/CentOS 7/8
   - openSUSE Leap 15.2
   - Debian 10
-  - Fedora 32
+  - Fedora 33
 
 ## Role Variables
 
