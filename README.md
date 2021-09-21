@@ -1,5 +1,7 @@
 # Ansible Role for Thunderbird
 
+<img src="/alvistack.svg" width="75" alt="AlviStack">
+
 [![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-thunderbird/master)](https://gitlab.com/alvistack/ansible-role-thunderbird/-/pipelines)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/releases)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/blob/master/LICENSE)
