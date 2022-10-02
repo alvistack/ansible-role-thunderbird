@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: thunderbird --version
-      ansible.builtin.command: thunderbird --version
+      ansible.builtin.command:
+        cmd: thunderbird --version
       register: result
       changed_when: result is not succeeded
