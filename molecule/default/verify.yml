@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: thunderbird --version
+    - name: flatpak info org.mozilla.Thunderbird
       ansible.builtin.command:
-        cmd: thunderbird --version
+        cmd: flatpak info org.mozilla.Thunderbird
       register: result
       changed_when: result is not succeeded
